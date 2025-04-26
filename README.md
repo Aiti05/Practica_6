@@ -1,4 +1,5 @@
-## ** PRACTICA 6: Buses de comunicación II (SPI)**
+## **Practica 6: Buses de comunicación II (SPI)**
+
 El objetivo de esta práctica es entender el funcionamiento del bus de comunicación SPI (Serial Peripheral Interface), 
 ampliamente utilizado en sistemas embebidos por su rapidez y sencillez. El bus SPI permite la comunicación Full Duplex entre 
 un dispositivo maestro y uno o varios dispositivos esclavos, utilizando un conjunto de líneas: MOSI, MISO, SCK y SS. Esta práctica, 
